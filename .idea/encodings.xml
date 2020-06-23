@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-api-entitys" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-api-entitys/meite-shop-api-weixin-entity" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-api-entitys/meite-shop-api-weixin-entity/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-basics/meite-shop-basics-springcloud-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-common/meite-shop-common-core/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-portal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-member/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service-api/meite-shop-service-api-weixin/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service/meite-shop-service-member" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service/meite-shop-service-member/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service/meite-shop-service-weixin" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/meite-shop-service/meite-shop-service-weixin/src/main/java" charset="UTF-8" />
+  </component>
+</project>

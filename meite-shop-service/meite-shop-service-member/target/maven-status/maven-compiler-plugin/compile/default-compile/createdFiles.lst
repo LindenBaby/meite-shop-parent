@@ -1,0 +1,3 @@
+com\mayikt\member\AppMember.class
+com\mayikt\member\impl\MemberServiceImpl.class
+com\mayikt\member\feign\AppServiceFeign.class
